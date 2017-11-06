@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\.android\build-cache\4a9f5e69bb6a194d66d1fc671faab850d1292ab7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Student\Desktop\CoachManager\app\build\intermediates\pre-dexed\debug\classes_35d31b6c84a7694c8ba8ef366c4ace6760363693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\.android\build-cache\6809c91695e46509293cf614ee926fcc22e832c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Student\Desktop\CoachManager\app\build\intermediates\pre-dexed\debug\classes_33849975861dc935963b4db45d232df775f721c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\.android\build-cache\fe3d4e2ba98d70956acf729415cf20d4faa0d34d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Student\Desktop\CoachManager\app\build\intermediates\pre-dexed\debug\classes_a09379b5f3b46f66eeaf6c26a9350e796ce52aa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\.android\build-cache\4330830e38c5ad12e62a50348c96d6957f9ac82c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Student\Desktop\CoachManager\app\build\intermediates\pre-dexed\debug\classes_ac8529d02b09c70a114e78325703a0c17cd54b52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\.android\build-cache\1a286f6d832578986b7677f60ddeb173d38ccf09\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Student\Desktop\CoachManager\app\build\intermediates\pre-dexed\debug\classes_74ab2740d9585466964cdc8c2ea71e75fa309012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Student\Desktop\CoachManager\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_8f73ac0df94b96f350ffd0cd1d6bba0845deaeef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\.android\build-cache\402ee5d23716fa9c21c1fa28e0d3cae4716b9c23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Student\Desktop\CoachManager\app\build\intermediates\pre-dexed\debug\classes_11788c73286aaa5ede2efe989dcf718c9fa3c151.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\.android\build-cache\bddbd3e8eaefa9dff9fe6229c861547dd0a2e349\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Student\Desktop\CoachManager\app\build\intermediates\pre-dexed\debug\classes_4d81264c6634e6f9cec8df2656ff06ad9eea714a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Student\Desktop\CoachManager\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d9adcf6773651346c3207209bebb36029d9b4bef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\.android\build-cache\c23d856c90fb2d0dc71e4ac0aa7e32489efcf43a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Student\Desktop\CoachManager\app\build\intermediates\pre-dexed\debug\classes_3ba2612638ac5a6e5f68a58f408fe9d303cfdd37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\.android\build-cache\0c190f68fc3008e09d75a15f3b148ff01a3882f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Student\Desktop\CoachManager\app\build\intermediates\pre-dexed\debug\classes_164060d25fedd922c6fee05a6069ca9c9f90aa7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\.android\build-cache\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Student\Desktop\CoachManager\app\build\intermediates\pre-dexed\debug\classes_3ef266302290a7cb50850fe56238a70d6e87f78a.jar" />
+    </item>
+
+</items>

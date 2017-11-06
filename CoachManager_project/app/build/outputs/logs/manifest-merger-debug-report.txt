@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:3:11-53
+		INJECTED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:6:5-95
+	android:name
+		ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\8f0427c3b2a4d58662f17c560efe82ba7297703c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\900a0b4af56aea86228ddd5cf118eaa2de50202b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\661f4f3c9bff9272cd071fe4d86e3000c98c8003\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\5512c062700dfa45faef258fa7d5fb6aad1b785b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\364005034ae73385596aa7a122982a0dc31b6ab0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\c4fc73a0dcdc1640c08aa32888aeec611aef5417\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\4d59c5b95283612a4dbccaf4e67851878c1a80e8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\c546d754ecb979aeb07bf44cba0ca1689a1e6bdc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\5b4f14f82501a1a363644727687ea4b68e1916f5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\¤¯Â@\.android\build-cache\64e9f7725a06bd31e8fffea599c0310252f8b7ee\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:11:9-36
+	android:theme
+		ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:9:9-40
+activity#com.example.student.coachmanager.UserInput
+ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:16:19-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.student.coachmanager.CoachManager
+ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:24:9-49
+	android:name
+		ADDED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml:24:19-47
+uses-sdk
+INJECTED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\8f0427c3b2a4d58662f17c560efe82ba7297703c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\900a0b4af56aea86228ddd5cf118eaa2de50202b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\661f4f3c9bff9272cd071fe4d86e3000c98c8003\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\5512c062700dfa45faef258fa7d5fb6aad1b785b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\364005034ae73385596aa7a122982a0dc31b6ab0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\c4fc73a0dcdc1640c08aa32888aeec611aef5417\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\4d59c5b95283612a4dbccaf4e67851878c1a80e8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\c546d754ecb979aeb07bf44cba0ca1689a1e6bdc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\5b4f14f82501a1a363644727687ea4b68e1916f5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\¤¯Â@\.android\build-cache\64e9f7725a06bd31e8fffea599c0310252f8b7ee\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\8f0427c3b2a4d58662f17c560efe82ba7297703c\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android\AppS\CoachManager\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\8f0427c3b2a4d58662f17c560efe82ba7297703c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\900a0b4af56aea86228ddd5cf118eaa2de50202b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\661f4f3c9bff9272cd071fe4d86e3000c98c8003\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\5512c062700dfa45faef258fa7d5fb6aad1b785b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\364005034ae73385596aa7a122982a0dc31b6ab0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\c4fc73a0dcdc1640c08aa32888aeec611aef5417\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\4d59c5b95283612a4dbccaf4e67851878c1a80e8\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\c546d754ecb979aeb07bf44cba0ca1689a1e6bdc\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\5b4f14f82501a1a363644727687ea4b68e1916f5\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\8f0427c3b2a4d58662f17c560efe82ba7297703c\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\¤¯Â@\.android\build-cache\8f0427c3b2a4d58662f17c560efe82ba7297703c\output\AndroidManifest.xml:26:9-47

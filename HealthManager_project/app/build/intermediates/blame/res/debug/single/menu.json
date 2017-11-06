@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Jason\\Desktop\\Project\\login\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_menu.xml",
+        "source": "C:\\Users\\Jason\\Desktop\\Project\\login\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\FINISH\\HealthManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_menu.xml",
+        "source": "C:\\Users\\Student\\Desktop\\FINISH\\HealthManager\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\login\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_menu.xml",
+        "source": "C:\\AndroidSpace\\login\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\HealthManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_menu.xml",
+        "source": "H:\\Android\\AppS\\HealthManager\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\HealthManager_DONE\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_menu.xml",
+        "source": "C:\\Users\\User\\Desktop\\HealthManager_DONE\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\HealthManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_menu.xml",
+        "source": "C:\\AndroidSpace\\HealthManager\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\Desktop\\Project\\HealthManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_menu.xml",
+        "source": "C:\\Users\\Jason\\Desktop\\Project\\HealthManager\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\HealthManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_menu.xml",
+        "source": "C:\\Users\\Student\\Desktop\\HealthManager\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\HealthManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_menu.xml",
+        "source": "C:\\Users\\User\\Desktop\\HealthManager\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    }
+]

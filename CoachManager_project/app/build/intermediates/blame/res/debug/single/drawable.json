@@ -1,0 +1,874 @@
+[
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonbg.png",
+        "source": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\buttonbg.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginln.png",
+        "source": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\loginln.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\itemtextaccount.png",
+        "source": "C:\\Users\\User\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\itemtextaccount.png"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginline.xml",
+        "source": "C:\\Users\\User\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\loginline.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\borderbuttom.xml",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\borderbuttom.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgerror.gif",
+        "source": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\bgerror.gif"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginline.xml",
+        "source": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\loginline.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "C:\\Users\\User\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgrounderror.xml",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\backgrounderror.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginln.png",
+        "source": "C:\\Users\\User\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\loginln.png"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext.png",
+        "source": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\edittext.png"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\itemtextaccount.png",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\itemtextaccount.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgrounderror.xml",
+        "source": "C:\\Users\\User\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\backgrounderror.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "C:\\Users\\User\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\itembox.png",
+        "source": "C:\\Users\\User\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\itembox.png"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bd.gif",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\bd.gif"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\itembox.png",
+        "source": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\itembox.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\borderbuttom.xml",
+        "source": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\borderbuttom.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bd.gif",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\bd.gif"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgrounderror.xml",
+        "source": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\backgrounderror.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgerror.gif",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\bgerror.gif"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\borderbuttom.xml",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\borderbuttom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "C:\\Users\\User\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgerror.gif",
+        "source": "C:\\Users\\User\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\bgerror.gif"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdbottom.gif",
+        "source": "C:\\Users\\User\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\bdbottom.gif"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bd.gif",
+        "source": "C:\\Users\\User\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\bd.gif"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdbottom.gif",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\bdbottom.gif"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginln.png",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\loginln.png"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\itemtextaccount.png",
+        "source": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\itemtextaccount.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginline.xml",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\loginline.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdbottom.gif",
+        "source": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\bdbottom.gif"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\itembox.png",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\itembox.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext.png",
+        "source": "C:\\Users\\User\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\edittext.png"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\itembox.png",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\itembox.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bd.gif",
+        "source": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\bd.gif"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\borderbuttom.xml",
+        "source": "C:\\Users\\User\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\borderbuttom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonbg.png",
+        "source": "C:\\Users\\User\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\buttonbg.png"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonreload.png",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\buttonreload.png"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginline.xml",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\loginline.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginln.png",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\loginln.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonaccept.png",
+        "source": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\buttonaccept.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "C:\\Users\\User\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonreload.png",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\buttonreload.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonaccept.png",
+        "source": "C:\\Users\\User\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\buttonaccept.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgrounderror.xml",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\backgrounderror.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgerror.gif",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\bgerror.gif"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdbottom.gif",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\bdbottom.gif"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\itemtextaccount.png",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\itemtextaccount.png"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e58e57d0aae924c0c606d221cf965704339603f8\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext.png",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\edittext.png"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonbg.png",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\buttonbg.png"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonbg.png",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\buttonbg.png"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\仁駿\\.android\\build-cache\\8f0427c3b2a4d58662f17c560efe82ba7297703c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonaccept.png",
+        "source": "C:\\AndroidSpace\\CoachManager\\app\\src\\main\\res\\drawable\\buttonaccept.png"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext.png",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\edittext.png"
+    },
+    {
+        "merged": "C:\\AndroidSpace\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Student\\.android\\build-cache\\fb6ff457e71bb0ded1fdb437cc18626223ef4b4f\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "H:\\Android\\AppS\\CoachManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonaccept.png",
+        "source": "H:\\Android\\AppS\\CoachManager\\app\\src\\main\\res\\drawable\\buttonaccept.png"
+    }
+]

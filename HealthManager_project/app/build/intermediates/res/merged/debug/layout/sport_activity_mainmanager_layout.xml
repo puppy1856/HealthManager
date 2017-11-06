@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <LinearLayout
+        android:background="@drawable/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <ImageView
+            android:id="@+id/iv"
+            android:layout_width="125dp"
+            android:layout_height="210dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="48dp" />
+
+        <LinearLayout
+            android:layout_marginTop="24dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:textAlignment="center"
+                android:textColor="@color/colorCoffee"
+                android:id="@+id/days"
+                android:layout_width="91dp"
+                android:layout_height="32dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_weight="1"
+                android:textSize="20dp" />
+
+            <TextView
+                android:textAlignment="center"
+                android:textColor="@color/colorCoffee"
+                android:id="@+id/sport"
+                android:layout_width="91dp"
+                android:layout_height="32dp"
+                android:layout_weight="1"
+                android:textSize="18dp" />
+
+            <TextView
+                android:textAlignment="center"
+                android:id="@+id/clock"
+                android:layout_width="91dp"
+                android:layout_height="32dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_weight="1"
+                android:textColor="@color/colorCoffee"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:textColor="@color/colorCoffee"
+                android:textAlignment="center"
+                android:id="@+id/days_tv"
+                android:layout_width="91dp"
+                android:layout_height="32dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_weight="1"
+                android:text="計畫到期"
+                android:textSize="20dp" />
+
+            <TextView
+                android:textColor="@color/colorCoffee"
+                android:textAlignment="center"
+                android:id="@+id/sport_tv"
+                android:layout_width="91dp"
+                android:layout_height="32dp"
+                android:layout_weight="1"
+                android:text="運動時數"
+                android:textSize="20dp" />
+
+            <TextView
+                android:textColor="@color/colorCoffee"
+                android:textAlignment="center"
+                android:id="@+id/clock_tv"
+                android:layout_width="91dp"
+                android:layout_height="32dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_weight="1"
+                android:text="提醒時間"
+                android:textSize="20dp" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/congras"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/backgrounderror"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:textColor="@color/colorWhite"
+            android:textSize="20dp"
+            android:visibility="visible"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+            </LinearLayout>
+
+            <ImageButton
+                android:id="@+id/delbtn2"
+                android:layout_width="135dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:background="@drawable/buttonbg"
+                android:onClick="delclick"
+                android:scaleType="fitCenter"
+                android:src="@drawable/buttondelete"
+                android:text="刪除計畫"
+                android:textSize="20dp"
+                android:visibility="invisible" />
+
+            <ImageButton
+                android:id="@+id/delbtn"
+                android:layout_width="135dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:background="@drawable/buttonbg"
+                android:onClick="delclick"
+                android:scaleType="fitCenter"
+                android:src="@drawable/buttondelete"
+                android:text="刪除計畫"
+                android:textSize="20dp"/>
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/border" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/borderbuttom" />
+
+</RelativeLayout>

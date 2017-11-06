@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cadtc.androidwithmysqlphpsqlite"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="20"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+
+    <!-- Allow to connect with internet -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" /> <!-- android:windowSoftInputMode="adjustNothing" : 讓鍵盤不會推擠layout -->
+    <!-- android:theme="@style/NoTitle" : 不會顯示標題 -->
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/NoTitle" >
+        <activity android:name="com.example.cadtc.androidwithmysqlphpsqlite.Logo" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- Login Activity -->
+        <activity
+            android:name="com.example.cadtc.androidwithmysqlphpsqlite.Login_Activity"
+            android:label="Login Account"
+            android:windowSoftInputMode="adjustNothing" >
+        </activity>
+
+        <!-- Register Activity -->
+        <activity
+            android:name="com.example.cadtc.androidwithmysqlphpsqlite.Login_RegisterActivity"
+            android:label="Register New Account"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity android:name="com.example.cadtc.androidwithmysqlphpsqlite.FoodManagment_Main" />
+
+        <receiver
+            android:name="com.example.cadtc.androidwithmysqlphpsqlite.Food_MyBroadcastReceiver"
+            android:enabled="true" />
+        <receiver
+            android:name="com.example.cadtc.androidwithmysqlphpsqlite.Food_AlarmInitReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name="com.example.cadtc.androidwithmysqlphpsqlite.Sport_MainManager" />
+        <activity android:name="com.example.cadtc.androidwithmysqlphpsqlite.Sport_CreatePlan" />
+
+        <receiver android:name="com.example.cadtc.androidwithmysqlphpsqlite.Sport_AlarmBroadcastReceiver" />
+        <receiver android:name="com.example.cadtc.androidwithmysqlphpsqlite.Sport_AlarmInitReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name="com.example.cadtc.androidwithmysqlphpsqlite.CalendarMain" />
+        <activity android:name="com.example.cadtc.androidwithmysqlphpsqlite.AchievementMain" />
+        <activity android:name="com.example.cadtc.androidwithmysqlphpsqlite.Login_DashboardActivity" />
+    </application>
+
+</manifest>
